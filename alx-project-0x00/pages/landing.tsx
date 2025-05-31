@@ -6,9 +6,9 @@ const Landing: React.FC = () => {
         <div>
             <h1 className="text-xl font-extralight">Landing Page</h1>
             <Card />
-            <Button title="Small" style="bg-blue-500 text-sm rounded-sm" />
-            <Button title="Medium" style="bg-green-500 text-base rounded-md" />
-            <Button title="Large" style="bg-red-500 text-lg rounded-full" />
+            <Button title="Small" styles="bg-blue-500 text-sm rounded-sm" />
+            <Button title="Medium" styles="bg-green-500 text-base rounded-md" />
+            <Button title="Large" styles="bg-red-500 text-lg rounded-full" />
         </div>
         
     )
